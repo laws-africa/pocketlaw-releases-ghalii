@@ -1,1 +1,1 @@
-# pocketlaw-releases-ghalii
+# Pocket Law GhaLII releases
